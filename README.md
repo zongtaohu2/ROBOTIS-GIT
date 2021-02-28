@@ -1,0 +1,2 @@
+# ROBOTIS-GIT
+ROS packages for the ROBOTIS MANIPULATOR-H
